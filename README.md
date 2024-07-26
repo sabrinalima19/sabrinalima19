@@ -3,6 +3,7 @@
 - 🔭 Estudante de Informática no IF.
 - 🌱 Estudando Java.
 - 😄
+- escutem o mano kamai!
 
 <div>
   <a href-"https://github.com/sabvulgobbzao">
